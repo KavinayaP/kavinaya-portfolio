@@ -1,4 +1,4 @@
-# Kavinaya P — Orbit Studio Portfolio
+# Kavinaya P — Portfolio
 
 A custom, responsive developer portfolio built with HTML, CSS and vanilla JavaScript. It uses a cinematic dark base with pink, blue, red, brown, purple and white accents, custom CSS illustrations, animated orbit systems, scroll reveals, tilt cards, responsive navigation and a video backdrop.
 
